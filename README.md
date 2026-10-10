@@ -1,3 +1,5 @@
+BPM data for my side projects from [GetSongBPM](https://getsongbpm.com).
+
 ## Hi there 👋
 
 <!--
